@@ -2,7 +2,7 @@
 
 This repo is based on Youtube video lectures by Dr. Sania Qureshi.
 
-![Local GIF](./Simulation_chatioc.gif)
+![Local GIF](./Simulation_chatoic.gif)
 
 
 
