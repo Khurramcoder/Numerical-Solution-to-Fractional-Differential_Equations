@@ -2,7 +2,7 @@
 
 This repo is based on Youtube video lectures by Dr. Sania Qureshi.
 
-![Local GIF](./Numerical_Fractional_Calculus/Simulation_chatioc.gif)
+![Local GIF](./Numerical_Fractional_Calculus/Simulation_chatoic.gif)
 
 
 
